@@ -1,5 +1,3 @@
--- tsuo hub deob...
-getgenv().ScriptExecute = true
 repeat task.wait() until game:IsLoaded() and game.Players and game.Players.LocalPlayer  
 
 object.Reset_Hub = instance.new("ScreenGui", {
